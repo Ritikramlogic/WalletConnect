@@ -1,0 +1,21 @@
+.flexContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+  margin: 20px;
+}
+.flexLine {
+  display: flex;
+  align-items: center;
+}
+.textClass {
+  margin: 10px;
+  font-size: 20px;
+  text-align: left;
+}
+.mainClass {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
